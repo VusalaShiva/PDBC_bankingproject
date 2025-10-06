@@ -8,4 +8,3 @@ def db_Connection():
         database="HDFCBank"
     )
 print("db connected successfully.....")
-db_Connection()
